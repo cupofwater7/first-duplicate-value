@@ -1,5 +1,7 @@
+                                                Coding Interview Questions     
 # first-duplicate-value
 
+Difficulty: medium
 
   Given an array of integers between 1 and n, inclusive where n is the length of the array, write a function
   that returns the first integer that appears more than once (when the array is
